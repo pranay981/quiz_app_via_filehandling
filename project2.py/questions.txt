@@ -1,0 +1,42 @@
+questions = {
+    "General Knowledge": [
+        {"question": "Who was the first President of India?", "options": ["A) Dr. Rajendra Prasad", "B) Sarvepalli Radhakrishnan", "C) Zakir Husain", "D) V. V. Giri"], "answer": "A"},
+        {"question": "Which is the smallest state in India by area?", "options": ["A) Kerala", "B) Goa", "C) Sikkim", "D) Nagaland"], "answer": "B"},
+        {"question": "Which is the official language of the Indian state of Karnataka?", "options": ["A) Telugu", "B) Kannada", "C) Tamil", "D) Malayalam"], "answer": "B"},
+        # ... (23 other questions already provided above for General Knowledge)
+    ],
+    "Technology": [
+        {"question": "Which company is India's largest IT services provider?", "options": ["A) Infosys", "B) Wipro", "C) TCS", "D) HCL"], "answer": "C"},
+        {"question": "What is the name of India's indigenous operating system?", "options": ["A) BharatOS", "B) IndOS", "C) HindOS", "D) IndiaOS"], "answer": "A"},
+        {"question": "In which year did ISRO launch its first satellite, Aryabhata?", "options": ["A) 1972", "B) 1975", "C) 1980", "D) 1984"], "answer": "B"},
+        {"question": "Which Indian scientist is known as the 'Missile Man of India'?", "options": ["A) Dr. A.P.J. Abdul Kalam", "B) Homi Bhabha", "C) Vikram Sarabhai", "D) Satish Dhawan"], "answer": "A"},
+        {"question": "What is the full form of UPI in India’s digital payment system?", "options": ["A) Unified Payments Interface", "B) Universal Payment Identity", "C) Unified Personal Interface", "D) Unified Process Infrastructure"], "answer": "A"},
+        {"question": "Which Indian company developed the Aakash tablet?", "options": ["A) Infosys", "B) Reliance", "C) DataWind", "D) HCL"], "answer": "C"},
+        {"question": "Which of the following is a major IT park in India?", "options": ["A) Hinjewadi", "B) Electronic City", "C) Cybercity", "D) All of the above"], "answer": "D"},
+        {"question": "Who is the CEO of Google as of 2024?", "options": ["A) Satya Nadella", "B) Sundar Pichai", "C) Shantanu Narayen", "D) Parag Agrawal"], "answer": "B"},
+        {"question": "Which Indian mobile brand was the first to develop a 5G smartphone?", "options": ["A) Micromax", "B) Intex", "C) Karbonn", "D) Reliance Jio"], "answer": "D"},
+        {"question": "Which is the highest civilian award given for contributions to science and technology in India?", "options": ["A) Padma Shri", "B) Padma Bhushan", "C) Shanti Swarup Bhatnagar Prize", "D) Padma Vibhushan"], "answer": "C"},
+        {"question": "Which of the following organizations is responsible for India's defense research?", "options": ["A) ISRO", "B) DRDO", "C) HAL", "D) BHEL"], "answer": "B"},
+        {"question": "Which of these was India's first nuclear reactor?", "options": ["A) Cirus", "B) Apsara", "C) Dhruva", "D) Pokhran"], "answer": "B"},
+        {"question": "What is the name of the digital identity system used in India?", "options": ["A) Aadhaar", "B) DigiID", "C) BharatID", "D) DigitalIndia"], "answer": "A"},
+        {"question": "Which company introduced ChatGPT?", "options": ["A) Google", "B) OpenAI", "C) Microsoft", "D) IBM"], "answer": "B"},
+        {"question": "Which programming language is widely used in data science?", "options": ["A) Python", "B) Java", "C) C++", "D) Ruby"], "answer": "A"},
+        {"question": "What does AI stand for?", "options": ["A) Artificial Intelligence", "B) Automated Input", "C) Automatic Intelligence", "D) None of the above"], "answer": "A"},
+        {"question": "Which technology is used for cryptocurrency transactions?", "options": ["A) Blockchain", "B) Cloud Computing", "C) Internet of Things", "D) Big Data"], "answer": "A"},
+        {"question": "Which software is primarily used for photo editing?", "options": ["A) Adobe Photoshop", "B) MS Paint", "C) CorelDRAW", "D) Blender"], "answer": "A"},
+        {"question": "What is the full form of IoT?", "options": ["A) Internet of Things", "B) Internet on Technology", "C) Information of Things", "D) Internet Operation Technology"], "answer": "A"},
+        {"question": "Which Indian scientist led the Mars Orbiter Mission (Mangalyaan)?", "options": ["A) Ritu Karidhal", "B) K. Radhakrishnan", "C) Tessy Thomas", "D) A.S. Kiran Kumar"], "answer": "A"},
+        {"question": "What does VPN stand for?", "options": ["A) Virtual Private Network", "B) Very Private Network", "C) Virtual Protection Network", "D) Visual Protocol Network"], "answer": "A"},
+        {"question": "Which Indian company launched the supercomputer 'Param'?", "options": ["A) C-DAC", "B) DRDO", "C) Infosys", "D) ISRO"], "answer": "A"},
+        {"question": "Which database is used in large-scale websites like Facebook?", "options": ["A) MySQL", "B) MongoDB", "C) Oracle", "D) Cassandra"], "answer": "B"},
+        {"question": "Which is the primary programming language for Android development?", "options": ["A) Java", "B) Python", "C) C++", "D) Swift"], "answer": "A"},
+        {"question": "What is the name of India's ambitious digital payment system?", "options": ["A) BharatPay", "B) Paytm", "C) BHIM", "D) GPay"], "answer": "C"}
+    ],
+    "Sports": [
+        {"question": "Who is the first Indian to win an individual Olympic gold medal?", "options": ["A) Abhinav Bindra", "B) Neeraj Chopra", "C) P.T. Usha", "D) Rajyavardhan Singh Rathore"], "answer": "A"},
+        {"question": "Who won the first Cricket World Cup for India in 1983?", "options": ["A) Sachin Tendulkar", "B) Kapil Dev", "C) Sunil Gavaskar", "D) Rahul Dravid"], "answer": "B"},
+        {"question": "Who is known as the 'God of Cricket'?", "options": ["A) Rahul Dravid", "B) Virat Kohli", "C) Sachin Tendulkar", "D) MS Dhoni"], "answer": "C"},
+        {"question": "Who won the ICC World Cup 2011 for India?", "options": ["A) Sourav Ganguly", "B) MS Dhoni", "C) Sachin Tendulkar", "D) Virat Kohli"], "answer": "B"},
+        # Add 21 more sports-related questions
+    ]
+}

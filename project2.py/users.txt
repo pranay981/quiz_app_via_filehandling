@@ -1,0 +1,11 @@
+pt|455|praan|praan
+pt|3|p|t
+p|3|t|y
+pranay|39484|praan|praan
+pranay tripathi |85758|praaan|praaan
+pranay tripathi |484849|praaan|praaan
+pranay'|873838|praaan|praaan
+PRANAY TRIPATHI |49480|PRAAAN|PRAAAN
+pranay tripathi|4855849|praaan|praaan
+pranay tripathi|49493|praan|praan
+python -u "d:\project2.py\code_1.py"|das|daf|fd
